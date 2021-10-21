@@ -1,0 +1,43 @@
+[
+  {
+    "id": "appointment001",
+    "patientFirstName": "Alan",
+    "patientLastName": "Watts",
+    "date": 1643709600000,
+    "kind": "Patient",
+    "doctorID": "doctor001"
+    },
+    {
+      "id": "appointment002",
+      "patientFirstName": "Alan",
+      "patientLastName": "Watts",
+      "date": 2000,
+      "kind": "Patient",
+      "doctorID": "doctor001"
+      },
+    {
+      "id": "appointment003",
+      "patientFirstName": "Bill",
+      "patientLastName": "Burr",
+      "date": 0,
+      "kind": "Patient",
+      "doctorID": "doctor001"
+      },
+      {
+        "id": "appointment004",
+        "patientFirstName": "Bill",
+        "patientLastName": "Burr",
+        "date": 1643709600000,
+        "kind": "Patient",
+        "doctorID": "doctor002"
+        },
+        {
+          "id": "appointment005",
+          "patientFirstName": "Bill",
+          "patientLastName": "Burr",
+          "date": 0,
+          "kind": "Patient",
+          "doctorID": "doctor002"
+          }
+
+]
